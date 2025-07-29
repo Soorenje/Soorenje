@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm a Sooren</h1>
+<h1 align="center">Hi there 👋, I'm Sooren</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="200" alt="Coding gif" />
