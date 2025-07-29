@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm a Sooren</h1>
 
-<!--
-**Soorenje/Soorenje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="200" alt="Coding gif" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+
+```javascript
+const me = {
+  name: "Sooren Jamili Emami",
+  passion: ["JavaScript", "Node.js", "Express", "Clean Code"],
+  tools: {
+    editor: "VS Code",
+    terminal: "Zsh",
+    theme: "Dracula",
+  },
+  powerUps: ["☕ Coffee", "🎧 Lo-fi beats", "🔥 Stack Overflow"],
+  favoriteQuote: "Code is like humor. When you have to explain it, it’s bad.",
+  isCoding: true
+};
+
+```
