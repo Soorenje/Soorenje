@@ -11,11 +11,13 @@
 ```javascript
 const me = {
   name: "Sooren Jamili Emami",
-  passion: ["JavaScript", "Node.js", "Express", "Clean Code"],
+  role: "Full-Stack Web Developer",
+  coreStack: ["Next.js", "TypeScript", "Node.js", "Express", "MongoDB", "Prisma"],
+  passions: ["Clean Code", "Web3 Integration", "Interactive UIs"],
   tools: {
     editor: "VS Code",
-    terminal: "Zsh",
     theme: "Dracula",
+    infrastructure: ["Vercel", "Render", "Cloudinary"]
   },
   powerUps: ["☕ Coffee", "🎧 Lo-fi beats", "🔥 Stack Overflow"],
   favoriteQuote: "Code is like humor. When you have to explain it, it’s bad.",
